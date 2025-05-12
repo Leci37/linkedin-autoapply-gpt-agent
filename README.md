@@ -21,7 +21,7 @@ This project automates job applications on LinkedIn using a combination of Selen
 - Optional fallback to cached Q&A answers
 
 ### 📺 Demo Video
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=du278-Dy2ac)
+[![Watch the video](data/response_cache/linkeBOT.md.png)](https://www.youtube.com/watch?v=du278-Dy2ac)
 Watch it in action here:   [YouTube Demo](https://www.youtube.com/watch?v=du278-Dy2ac)
 
 ### Requirements
