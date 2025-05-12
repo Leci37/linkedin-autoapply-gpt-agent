@@ -1,0 +1,9 @@
+Question,Type,Answer
+"If you are being referred by a Holded employee, please write their full name below.",text,"If you're being referred by a Holded employee, just write their full name in the space provided."
+Location (City),text,Madrid
+Gross Anual Salary Expectations,number,29000
+University or college,text,Elorrieta Bilbao
+How many years of work experience do you have with Jenkins?,number,1
+Present Address Line 2 (Apt. Number/Unit Number),text,"Pl. de España, 6, 28911 Leganés, Madrid"
+Expected Graduation Date (if applicable),text,2015
+Current location,text,"Pl. de España, 6, 28911 Leganés, Madrid"
